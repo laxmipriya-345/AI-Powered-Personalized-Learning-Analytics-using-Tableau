@@ -56,19 +56,19 @@ The dataset includes:
 
 ### Chart 2 – Contextual Difficulty Level vs Final Assessment Score
 
-![Chart 2](chart2.png)
+![Chart 2](chart 2.png)
 
 ### Chart 3 – Gender vs Final Assessment Score
 
-![Chart 3](chart3.png)
+![Chart 3](chart 3.png)
 
 ### Chart 4 – Recommended Path vs Actual Path Followed
 
-![Chart 4](chart4.png)
+![Chart 4](chart 4.png)
 
 ### Chart 5 – Total Pass/Fail Distribution
 
-![Chart 5](chart5.png)
+![Chart 5](chart 5.png)
 
 ### Chart 6 – Average Final Assessment Score by Age Group
 
