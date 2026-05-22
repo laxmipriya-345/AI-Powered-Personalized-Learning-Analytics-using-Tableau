@@ -4,6 +4,8 @@
 
 This project analyzes student performance, engagement, and learning behavior using AI Personalized Learning data and interactive dashboards developed in Tableau. The system helps identify trends, learner patterns, and factors affecting academic success in adaptive learning environments.
 
+---
+
 ## Features
 
 * Interactive Tableau dashboards
@@ -14,12 +16,16 @@ This project analyzes student performance, engagement, and learning behavior usi
 * Heatmaps and trend analysis
 * Data-driven educational insights
 
+---
+
 ## Technologies Used
 
 * Tableau
 * Python (Data preprocessing)
 * CSV Dataset
 * AI Personalized Learning Dataset
+
+---
 
 ## Dataset Attributes
 
@@ -35,6 +41,8 @@ The dataset includes:
 * Contextual Difficulty Level
 * Pass/Fail Status
 
+---
+
 ## Objectives
 
 * Analyze learner engagement and performance
@@ -42,15 +50,39 @@ The dataset includes:
 * Evaluate effectiveness of personalized learning paths
 * Support adaptive learning strategies using visual analytics
 
+---
+
 ## Visualizations Included
 
-1. Contextual Difficulty vs Final Assessment Score (`chart2.png`)
-2. Gender vs Final Assessment Score (`chart3.png`)
-3. Recommended Path vs Actual Path Followed (`chart4.png`)
-4. Pass/Fail Distribution (`chart5.png`)
-5. Average Assessment Score by Age Group (`chart6.png`)
-6. Student Performance & Behavior Dashboard (`dashboard.png`)
-7. Project Overview Image (`image.png`)
+### Chart 2 – Contextual Difficulty Level vs Final Assessment Score
+
+![Chart 2](chart2.png)
+
+### Chart 3 – Gender vs Final Assessment Score
+
+![Chart 3](chart3.png)
+
+### Chart 4 – Recommended Path vs Actual Path Followed
+
+![Chart 4](chart4.png)
+
+### Chart 5 – Total Pass/Fail Distribution
+
+![Chart 5](chart5.png)
+
+### Chart 6 – Average Final Assessment Score by Age Group
+
+![Chart 6](chart6.png)
+
+### Dashboard – Student Performance & Behavior Dashboard
+
+![Dashboard](dashboard.png)
+
+### Main Project Image
+
+![Project Image](image.png)
+
+---
 
 ## Results
 
@@ -59,16 +91,22 @@ The dataset includes:
 * Minimal variation was observed across age and gender groups.
 * Most students successfully passed, indicating effective adaptive learning support.
 
+---
+
 ## Conclusion
 
 The project demonstrates how AI-driven analytics and Tableau dashboards can transform educational data into actionable insights, helping educators improve personalized learning and decision-making.
+
+---
 
 ## How to Run
 
 1. Open the Tableau workbook (.twb/.twbx).
 2. Connect the dataset file (.csv/.xlsx).
-3. Refresh data source if needed.
+3. Refresh the data source if needed.
 4. Explore dashboards and visualizations interactively.
+
+---
 
 ## Future Enhancements
 
@@ -77,6 +115,9 @@ The project demonstrates how AI-driven analytics and Tableau dashboards can tran
 * AI-based recommendation systems
 * Integration with Learning Management Systems (LMS)
 
+---
+
 ## Author
 Laxmipriya Rout
+
 Project developed for educational analytics and personalized learning research.
